@@ -68,7 +68,7 @@
         "tags" : [ "admins" ],
         "summary" : "adds an inventory item",
         "operationId" : "addInventory",
-        "description" : "Adds an item to the system",
+        "description" : "Adds an item to the system by satya",
         "consumes" : [ "application/json" ],
         "produces" : [ "application/json" ],
         "parameters" : [ {
